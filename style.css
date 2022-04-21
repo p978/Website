@@ -1,0 +1,40 @@
+body{
+    background: rgb(22, 20, 20);
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+    color: aliceblue;
+    font-family: comic Shanns;
+    font-size: 30px;
+}
+li:hover{
+    color: rgb(129, 63, 63)
+}
+
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+a{
+    font-size: 23px;
+    color:aliceblue
+}
+a:hover{
+    color: rgb(156, 53, 53);
+}
+
+a.feature-box:hover{
+    color: grey;
+}
+
